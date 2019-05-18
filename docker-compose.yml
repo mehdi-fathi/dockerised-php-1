@@ -16,9 +16,9 @@ services:
     php:
         image: php:fpm
         volumes:
-            - ./code:/code
+            - "${APP_CODE_PATH_CONTAINER}:/code"
             - ./php/mods-available:/usr/local/etc/php/conf.d
-            - ./php/php.ini:/conf/php.ini
+            - "${PATH_PHP_INI}:/conf/php.ini"
         networks:
             - code-network
 
