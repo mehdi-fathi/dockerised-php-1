@@ -1,6 +1,0 @@
-172.22.0.1 - - [18/May/2019:07:37:08 +0000] "GET / HTTP/1.1" 200 89136 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
-172.22.0.1 - - [18/May/2019:07:37:08 +0000] "GET / HTTP/1.1" 200 89121 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
-172.22.0.1 - - [18/May/2019:07:37:09 +0000] "GET / HTTP/1.1" 200 89135 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
-172.22.0.1 - - [18/May/2019:07:37:59 +0000] "GET / HTTP/1.1" 200 94675 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
-172.22.0.1 - - [18/May/2019:07:41:39 +0000] "GET / HTTP/1.1" 200 94667 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
-172.23.0.1 - - [18/May/2019:07:43:55 +0000] "GET / HTTP/1.1" 200 94675 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
